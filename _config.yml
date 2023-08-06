@@ -20,10 +20,11 @@ timezone: Asia/Seoul
 
 title: lumpen # the main title
 
-tagline: >-
+tagline:
   떠돌이 생활을 하는.
-  이실업자는 아니지만,
-  부랑 생활을 하는 # it will display as the sub-title
+  실업자는 아니지만,
+  부랑 생활을 하는
+#it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
