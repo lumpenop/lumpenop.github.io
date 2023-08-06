@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: lumpen # the main title
 
-tagline: 떠돌이 생활을 하는.
+tagline: >- 떠돌이 생활을 하는.
   이실업자는 아니지만,
   부랑 생활을 하는 # it will display as the sub-title
 
