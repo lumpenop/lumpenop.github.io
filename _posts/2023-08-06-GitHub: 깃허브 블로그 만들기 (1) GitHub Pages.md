@@ -1,6 +1,7 @@
 ---
 categories: [GitHub, GitHub Pages]
 tags: [GitHub, Pages]
+published: true
 ---
 
 # 깃허브 페이지 시작
