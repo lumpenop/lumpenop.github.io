@@ -1,8 +1,11 @@
 ---
+date : YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [GitHub, GitHub Pages]
 tags: [GitHub, Pages]
 published: true
 ---
+
+
 
 ### 깃허브 Pages 업데이트가 안될 때
 깃허브 Pages 에서 jekyll 를 사용하면 local 에서 
