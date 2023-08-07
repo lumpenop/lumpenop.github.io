@@ -21,7 +21,7 @@ _posts 폴더 내에 md 파일을 추가하여 글을 업데이트 할 수 있�
 1. `_config.yml` 파일에 `futrue: true` 속성을 추가해준다
 2. md 파일 설정에 `futrue: true` 추가
 
-위 두가지 방법을 모두 사용하니 바로 update 되었음..
+위 두가지 방법을 모두 사용하니 바로 update 되었다
 
 
 
