@@ -13,5 +13,4 @@ brew upgrade icu4c
 brew upgrade // or upgrade all packages
 brew cleanup
 ```
-
 홈 브류를 업데이트 하고 정리하여 해결됨
