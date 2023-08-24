@@ -1,7 +1,7 @@
 ---
 date : YYYY-MM-DD HH:MM:SS +09:00
 categories: [Mobile, ReactNative]
-tags: [ReactNative]
+tags: [iOS]
 published: true
 ---
 
