@@ -34,6 +34,7 @@ head 태그 내에 배치된다
 
 웹 페이지의 제목을 담는 title 태그와 meta 태그가 있다
 
+
 ### title 
 title 은 주로 문서의 가장 큰 제목 태그와 일치시키는 경우가 일반적이고
 브라우저 탭에도 노출되는 태그다
@@ -77,3 +78,11 @@ Open Graph 는 링크 공유 등을 하였을 때 미리보기 카드를 제공�
 https://webclub.tistory.com/354
 자세한건 이쪽에서 보자..
 블로그 문 닫기 전에 정리해야지..
+
+
+
+#### favicon 등록
+
+```html
+<link rel="icon" type="image/svg+xml" href="/favicon" />
+```
