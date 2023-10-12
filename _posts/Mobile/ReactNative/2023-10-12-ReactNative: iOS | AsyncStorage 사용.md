@@ -7,6 +7,9 @@ published: true
 
 iOS 에서 AsyncStorage 사용 시 몇 가지 에러가 발생
 
+무슨 keyStore 로 해결하라는 이야기가 있는데
+그건 근본적 원인을 해결해주지 못하고 아래와 같이 하는게 좋겠다
+
 ### NSCocoaErrorDomain Code=4
 
 iOS 에서 AsyncStorage 가 이미 비어있는데 
