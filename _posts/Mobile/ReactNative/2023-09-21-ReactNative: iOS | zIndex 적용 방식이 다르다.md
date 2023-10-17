@@ -7,7 +7,7 @@ published: true
 
 # iOS 의 zIndex 적용 방식이 다르다
 
-![Alt text](/Users/swk/Desktop/lumpenop.github.io/assets/img/posts_images/ReactNative/scroll_view_issue1.png)
+![Alt text](/assets/img/posts_images/ReactNative/scroll_view_issue1.png)
 
 위 사진에서 단일회차까지 상단 View 영역
 복수회차부터 하단 View 영역에 닿게 된다
