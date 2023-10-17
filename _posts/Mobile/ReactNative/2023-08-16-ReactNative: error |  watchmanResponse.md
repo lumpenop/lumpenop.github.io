@@ -28,7 +28,6 @@ watchman shutdown-server
 watchman
 ```
 
-
 위와 같이 해도 동작하지 않는다면
 부여된 권한을 삭제 후 종료 - 실행
 `설정 -> 개인정보 보호 및 보안 -> 파일 및 폴더 에서 watchman을 모두 삭제`

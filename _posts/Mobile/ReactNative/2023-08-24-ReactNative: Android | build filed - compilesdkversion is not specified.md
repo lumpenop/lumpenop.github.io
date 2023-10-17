@@ -5,7 +5,6 @@ tags: [Android]
 published: true
 ---
 
-
 # compilesdkversion is not specified
 
 원래는 compilesdkversion 이 맞지 않아 project 수준 build.gradle 에서 

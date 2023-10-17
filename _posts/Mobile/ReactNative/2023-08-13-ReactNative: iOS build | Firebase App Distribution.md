@@ -15,5 +15,3 @@ iOS clean build folder - build - archive 후에
 development 로 ipa 파일을 생성,
 App Distribution 에 올려 테스트 버전을 업데이트 한다
 
-
-

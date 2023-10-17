@@ -47,5 +47,4 @@ if (response) {
     AsyncStorage.setItem('data2', response.data2),
   ]);
 }
-
 ```

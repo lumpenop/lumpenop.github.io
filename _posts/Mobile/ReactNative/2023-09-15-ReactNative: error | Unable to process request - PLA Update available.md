@@ -5,7 +5,6 @@ tags: [ReactNative]
 published: true
 ---
 
-
 xcode 에서 iOS 빌드하여 앱스토어에 업로드 할 때 발생한 에러
 
 앱스토어의 사용권 계약이 업데이트 되어 갱신해야 하는 상태임을 알리는 것으로
