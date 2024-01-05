@@ -1,9 +1,4 @@
----
-date : YYYY-MM-DD HH:MM:SS +09:00
-categories: [GitHub, Git]
-tags: [Git]
-published: true
----
+
 
 ## commit
 커밋은 저장소에 있는 모든 파일에 대한 스냅샷을 기록하는 것
@@ -63,12 +58,13 @@ rebase 는 하나의 부모를 갖는 커밋을 생성한다
 
 
 ```
-git rebase main
+git rebase main <Branch>
 ```
 
 기존 test 의 마지막 commit 을 복사해
 하나의 길을 가는 commit 생성
 main 은 이전 커밋 그대로 위치함
+-> main 밑으로 현재 위치한 (혹은 입력한) branch 가 붙는다
 
 ```
 git checkout test
