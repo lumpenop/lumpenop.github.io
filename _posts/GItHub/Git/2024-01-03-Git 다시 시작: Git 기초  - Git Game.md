@@ -1,3 +1,10 @@
+---
+date : YYYY-MM-DD HH:MM:SS +09:00
+categories: [GitHub, Git]
+tags: [Git]
+published: true
+---
+
 
 
 ## commit
