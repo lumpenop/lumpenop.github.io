@@ -23,3 +23,20 @@ default branch 를 main 으로 변경 후 push
 
 
 
+### Branch "main" is not allowed to deploy to github-pages due to environment protection rules
+위에서 default branch 를 main 으로 변경 후 
+한 번 포스팅을 한 번 성공했지만
+그 후로 위와 같은 에러 발생
+
+Sounds like that your environment has some protection set up. You can try the following:
+
+1. Go to you repository Settings.
+2. Click on Environments.
+3. Select your environment github-pages.
+4. Next to Deployment branches select Selected branches from the dropdown.
+5. Click on Add deployment branch rule.
+6. Enter the pattern master.
+
+This should allow deployments from the master branch to your github-pages environment.
+
+git action 환경 설정을 수정해주지 않아 발생한 문제
