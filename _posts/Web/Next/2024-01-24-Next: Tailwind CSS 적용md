@@ -1,0 +1,17 @@
+---
+date : YYYY-MM-DD HH:MM:SS +09:00
+categories: [Web, Next]
+tags: [Next]
+published: true
+---
+
+## Next + Tailwind
+
+최근 next 에는 설치 시 tailwind css 를 선택하면 자동으로 세팅을 해준다
+하지만 자동완성을 위해서는 tailwind 를 init 해줘야 함
+
+```
+npx tailwindcss init
+```
+
+init 을 해주면 작성되어있는 tailwind config 파일이 적용되는 것으로 보인다
